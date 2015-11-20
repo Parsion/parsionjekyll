@@ -1,0 +1,30 @@
+# Config for Parsion.tk
+# Config for blog.parsion.tk
+# Config made by Keegan Bourque (Keegan.bourque@outlook.com)
+# You can use at your own risk. I did not make the markdown
+# This config if run off of jekyll (www.jekyll.com)
+# (C) 2015, Keegan Bourque, All rights reserved.
+# 
+# In partnership with ['Microsoft', 'Jekyll', 'Twitter', 'Google'] **I claim no rights to any of thoes companys.
+#-----------------------------------------------------------------------------------------------------------------------------------
+# Site settings
+title: Parsion Media
+email: keegan.bourque@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+# URL Info
+baseurl: "/en" # the subpath of your site, e.g. /blog
+url: "http://parsion.tk" # the base hostname & protocol for your site
+
+# Initializing Social
+twitter_username: keeganbourque
+github_username:  keeg022200
+
+# Build settings
+markdown: pygments
+
+# Initializing Highlighter
+highlighter: rouge
